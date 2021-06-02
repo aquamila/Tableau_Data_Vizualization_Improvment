@@ -17,7 +17,7 @@ The main dataset is [violence_against_women.csv](https://github.com/aquamila/UDA
 
 __Data Dictionary:__
 
-**RecordID** - an id of the record;<br>
+- **RecordID** - an id of the record;<br>
 **Country** - the country where the survey was conducted;<br>
 **Gender** - whether the survey respondents were men or women;<br>
 **Demographic Question** and **Demographic Response** - the demographic features which group survey respondents by marital status, education level, employment status, residence type and age (15–24; 25–34; 35–49);<br>
