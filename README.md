@@ -13,7 +13,7 @@ The improved data visualization is [here](https://public.tableau.com/views/UDACI
 
 ## Data
 
-The main dataset is [violence_against_women.csv] (https://github.com/aquamila/UDACITY_DVND_Capstone-Project/blob/master/https://github.com/aquamila/UDACITY_DVND_Capstone-Project/blob/main/violence_against_women.csv) which contains information about the percentage of people in 70 countries who agree that a husband is justified in hitting or beating his wife under the six specific circumstances.
+The main dataset is [violence_against_women.csv](https://github.com/aquamila/UDACITY_DVND_Capstone-Project/blob/master/https://github.com/aquamila/UDACITY_DVND_Capstone-Project/blob/main/violence_against_women.csv) which contains information about the percentage of people in 70 countries who agree that a husband is justified in hitting or beating his wife under the six specific circumstances.
 
 __Data Dictionary:__
 
