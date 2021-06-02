@@ -1,5 +1,3 @@
-# UDACITY_DVND_Capstone-Project\
-
 # UDACITY | Data Visualization Nanodegree
 # Capstone Project
 
@@ -22,10 +20,10 @@ __Data Dictionary:__
 **RecordID** - an id of the record;
 **Country** - the country where the survey was conducted;
 **Gender** - whether the survey respondents were men or women;
-**Demographic Question** and **Demographic Response** - the demographic features which group survey respondents by marital status, education level, employment status, residence type and age (15–24; 25–34; 35–49);
-**Question** - the circumstances in which the survey respondents who agree that a husband is justified in hitting or beating his wife;
-**Survey Year** - the year when the survey was conducted;
-**Value** - the percentage of people who agree that a husband is justified in hitting or beating.
+**Demographic Question** and **Demographic Response** - the demographic features which group survey respondents by marital status, education level, employment status, residence type and age (15–24; 25–34; 35–49);<br>
+**Question** - the circumstances in which the survey respondents who agree that a husband is justified in hitting or beating his wife;<br>
+**Survey Year** - the year when the survey was conducted;<br>
+**Value** - the percentage of people who agree that a husband is justified in hitting or beating.<br>
 
 
 ## Technologies Used
