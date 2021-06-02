@@ -7,7 +7,7 @@ The main goal of this project is to describe how I have improved an existing dat
 
 I analyzed the Tableau data visualization based on the [data .world](https://data.world/)’s dataset and visualization [Violence Against Women & Girls — perceptions in African, Asian, and South American countries](https://data.world/makeovermonday/2020w10). 
 
-I shared all the steps in [the post on Medium](https://aquamila.medium.com/udacity-data-visualization-nanodegree-capstone-project-7f9714c0a903).
+I shared all the steps in [the post on Medium](https://aquamila.medium.com/udacity-data-visualization-nanodegree-capstone-project-7f9714c0a903), the copy of the post on Github is [here](https://github.com/aquamila/UDACITY_DVND_Capstone-Project/blob/main/post.md).
 
 The improved data visualization is [here](https://public.tableau.com/views/UDACITY_DVND_Capstone_LiudmilaSemenova/ViolenceAgainstWomen?:language=en&:display_count=y&:origin=viz_share_link). 
 
