@@ -31,5 +31,7 @@ Data Dictionary:
 
 - Tableau
 
+---------
+
 ![image](https://user-images.githubusercontent.com/34717940/120427604-2c179b80-c340-11eb-9001-60e62a3b0624.png)
 
