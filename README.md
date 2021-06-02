@@ -11,6 +11,8 @@ I analyzed the Tableau data visualization based on the [data .world](https://dat
 
 I shared all the steps in [the post on Medim](https://aquamila.medium.com/udacity-data-visualization-nanodegree-capstone-project-7f9714c0a903).
 
+The improved data visualization is [here](https://public.tableau.com/views/UDACITY_DVND_Capstone_LiudmilaSemenova/ViolenceAgainstWomen?:language=en&:display_count=y&:origin=viz_share_link). 
+
 ## Data
 
 The main dataset is [violence_against_women.csv](https://github.com/aquamila/UDACITY_DVND_Capstone-Project/blob/master/https://github.com/aquamila/UDACITY_DVND_Capstone-Project/blob/main/violence_against_women.csv) that contains information about the percentage of of people in 70 countires who agree that a husband is justified in hitting or beating his wife under the six specific circumstances.
