@@ -1,4 +1,4 @@
-# UDACITY | Data Visualization Nanodegree
+# Existing Data Visualization Improvement 
 # Capstone Project
 
 ## Overview
